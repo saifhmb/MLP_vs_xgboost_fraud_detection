@@ -81,4 +81,3 @@
   - It requires less compute (CPU and High-RAM) to run XGBoost models. GPUs are needed run MLP models.
 
 
-## Conclusion
